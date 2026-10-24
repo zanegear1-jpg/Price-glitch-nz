@@ -1,0 +1,9 @@
+{
+  "name": "Price Glitch NZ",
+  "short_name": "Price Glitch NZ",
+  "description": "New Zealand retail deal radar",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b0e14",
+  "theme_color": "#10131b"
+}
