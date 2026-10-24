@@ -1,0 +1,26 @@
+{
+  "updated_at": null,
+  "products": [],
+  "stores": {
+    "Mitre 10": {
+      "products_found": 0,
+      "ok": false,
+      "message": "First scan pending"
+    },
+    "Kmart": {
+      "products_found": 0,
+      "ok": false,
+      "message": "First scan pending"
+    },
+    "The Warehouse": {
+      "products_found": 0,
+      "ok": false,
+      "message": "First scan pending"
+    },
+    "Farmers": {
+      "products_found": 0,
+      "ok": false,
+      "message": "First scan pending"
+    }
+  }
+}
