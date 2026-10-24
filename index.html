@@ -19,7 +19,7 @@
 /* Client-side convenience lock only; not suitable for protecting sensitive data. */
 const HOME_PASSWORD="zaneg";
 const lockScreen=document.getElementById("lockScreen"),app=document.getElementById("app");
-document.getElementById("unlockForm").addEventListener("submit",e=>{e.preventDefault();if(document.getElementById("password").value===HOME_PASSWORD){lockScreen.classList.add("hidden");app.classList.remove("hidden");try{sessionStorage.setItem("pgnz_unlocked","1")}catch{}renderStores()}else{document.getElementById("unlockError").textContent="That password didn’t match. Try again.";document.getElementById("password").value=""}});
+document.getElementById("unlockForm").addEventListener("submit",e=>{e.preventDefault();if(document.getElementById("password").value===HOME_PASSWORD){lockScreen.classList.add("hidden");app.classList.remove("hidden");try{sessionStorage.setItem("pgnz_unlocked","1")}catch{}renderStores();loadFeed()}else{document.getElementById("unlockError").textContent="That password didn’t match. Try again.";document.getElementById("password").value=""}});
 try{if(sessionStorage.getItem("pgnz_unlocked")==="1"){lockScreen.classList.add("hidden");app.classList.remove("hidden")}}catch{}
 const stores=["Mitre 10","Kmart","The Warehouse","Farmers"];let feed={products:[],stores:{},updated_at:null};
 const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
