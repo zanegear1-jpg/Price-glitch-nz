@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T13:08:38.364000+00:00",
+  "updated_at": "2026-10-24T18:57:57.462039+00:00",
   "products": [
     {
       "store": "Mitre 10",
@@ -364,6 +364,24 @@
     },
     {
       "store": "Mitre 10",
+      "id": "347128",
+      "name": "Socket and Tool Set 162 Piece",
+      "price": 259.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": ""
+    },
+    {
+      "store": "Mitre 10",
+      "id": "364635",
+      "name": "Tool Set",
+      "price": 99.98,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": ""
+    },
+    {
+      "store": "Mitre 10",
       "id": "415453",
       "name": "Tool Cabinet With Timber Top Black H:1490mm, W:1870mm, D:600mm",
       "price": 1871.0,
@@ -409,27 +427,9 @@
     },
     {
       "store": "Mitre 10",
-      "id": "364635",
-      "name": "Tool Set",
-      "price": 99.98,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": ""
-    },
-    {
-      "store": "Mitre 10",
       "id": "363005",
       "name": "ToughSystem Tool Box Large",
       "price": 209.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": ""
-    },
-    {
-      "store": "Mitre 10",
-      "id": "347128",
-      "name": "Socket and Tool Set 162 Piece",
-      "price": 259.0,
       "was_price": null,
       "discount_percent": 0,
       "url": ""
@@ -544,6 +544,36 @@
     },
     {
       "store": "Mitre 10",
+      "id": "2043949",
+      "name": "RE Paint Beach White 10L",
+      "price": 69.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2043952",
+      "name": "RE Paint Graphite 10L",
+      "price": 69.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2043951",
+      "name": "RE Paint Greystone 10L",
+      "price": 69.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
       "id": "400827",
       "name": "Solagard Exterior Semi-Gloss Paint 8 litre White",
       "price": 139.0,
@@ -607,6 +637,16 @@
     },
     {
       "store": "Mitre 10",
+      "id": "389037",
+      "name": "Waterborne Ceiling Paint 10L White",
+      "price": 119.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
       "id": "387240",
       "name": "PAVEMAX Acrylic Paving Paint Water Based 4L Elephant Grey Elephant Grey",
       "price": 145.0,
@@ -625,112 +665,72 @@
     },
     {
       "store": "Mitre 10",
+      "id": "380339",
+      "name": "Satin Kitchen Bath & Laundry Paint & Prime 4L White Base",
+      "price": 105.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "380328",
+      "name": "Low Sheen Interior Paint & Prime 8L White Base",
+      "price": 109.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "380327",
+      "name": "Low Sheen Interior Paint & Prime 4L White Base",
+      "price": 99.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "380326",
+      "name": "Low Sheen Interior Paint & Prime 2L White Base",
+      "price": 70.98,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "380325",
+      "name": "Low Sheen Interior Paint & Prime 1L White Base",
+      "price": 53.98,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "380324",
+      "name": "Low Sheen Interior Paint & Prime 10L White Base",
+      "price": 139.0,
+      "was_price": 172.0,
+      "discount_percent": 19,
+      "url": "",
+      "deal_type": "sale"
+    },
+    {
+      "store": "Mitre 10",
       "id": "377169",
       "name": "Satin Roof Paint 10L Iron sand",
       "price": 175.0,
       "was_price": null,
       "discount_percent": 0,
       "url": ""
-    },
-    {
-      "store": "Mitre 10",
-      "id": "377168",
-      "name": "Satin Roof Paint 10L Grey Friars",
-      "price": 175.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "372505",
-      "name": "Universal Paint 10 Litre Black",
-      "price": 139.2,
-      "was_price": 174.0,
-      "discount_percent": 20,
-      "url": "",
-      "deal_type": "sale"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "372496",
-      "name": "Roof Paint 10 litre Ebony 10L Ebony",
-      "price": 159.0,
-      "was_price": 199.0,
-      "discount_percent": 20,
-      "url": "",
-      "deal_type": "sale"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "372494",
-      "name": "Roof Paint 10 litre Flaxpod 10L Flaxpod",
-      "price": 159.0,
-      "was_price": 199.0,
-      "discount_percent": 20,
-      "url": "",
-      "deal_type": "sale"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "372493",
-      "name": "Roof Paint 10 litre Ironsand 10L Ironsand",
-      "price": 159.0,
-      "was_price": 199.0,
-      "discount_percent": 20,
-      "url": "",
-      "deal_type": "sale"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "372492",
-      "name": "Roof Paint 10 litre Grey Friars 10L Grey Friars",
-      "price": 159.0,
-      "was_price": 199.0,
-      "discount_percent": 20,
-      "url": "",
-      "deal_type": "sale"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "372491",
-      "name": "Fence Paint 10 litre Ironsand",
-      "price": 69.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "372490",
-      "name": "Fence Paint 10 litre Karaka",
-      "price": 69.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "372489",
-      "name": "Fence Paint 10 litre Rustic Brown",
-      "price": 69.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "372487",
-      "name": "Fence Paint 10 litre Stone Grey",
-      "price": 69.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
     }
   ],
   "stores": {
@@ -747,12 +747,12 @@
     "The Warehouse": {
       "products_found": 0,
       "ok": false,
-      "message": "twlnz: clearing the challenge failed: the challenge did not clear in 60s, so try --headful\n"
+      "message": "twlnz: Cloudflare challenged this client, and only a browser can answer that\n      run it again with --headful\n"
     },
     "Farmers": {
       "products_found": 0,
       "ok": false,
-      "message": "Command '['farmers', 'search', 'home', '--prices', '--limit', '15', '--json']' timed out after 90 seconds; Command '['farmers', 'search', 'clothing', '--prices', '--limit', '15', '--json']' timed out after 90 seconds"
+      "message": "Command '['farmers', 'search', 'clearance', '--prices', '--limit', '15', '--json']' timed out after 90 seconds; Command '['farmers', 'search', 'clothing', '--prices', '--limit', '15', '--json']' timed out after 90 seconds"
     }
   }
 }
