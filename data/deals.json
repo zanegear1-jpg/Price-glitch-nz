@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T19:17:49.202962+00:00",
+  "updated_at": "2026-10-27T01:17:55.962785+00:00",
   "products": [
     {
       "store": "Mitre 10",
@@ -738,7 +738,7 @@
     "The Warehouse": {
       "products_found": 0,
       "ok": false,
-      "message": "No matching products returned"
+      "message": "twlnz: clearing the challenge failed: the challenge did not clear in 60s, so try --headful\n"
     },
     "Farmers": {
       "products_found": 0,
