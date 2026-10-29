@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T13:27:15.610437+00:00",
+  "updated_at": "2026-10-29T19:15:12.217947+00:00",
   "products": [
     {
       "store": "Mitre 10",
@@ -143,8 +143,7 @@
       "price": 1549.0,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -162,8 +161,7 @@
       "price": 1455.0,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -181,8 +179,7 @@
       "price": 1459.0,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -367,18 +364,18 @@
     },
     {
       "store": "Mitre 10",
-      "id": "347128",
-      "name": "Socket and Tool Set 162 Piece",
-      "price": 259.0,
+      "id": "364635",
+      "name": "Tool Set",
+      "price": 99.98,
       "was_price": null,
       "discount_percent": 0,
       "url": ""
     },
     {
       "store": "Mitre 10",
-      "id": "364635",
-      "name": "Tool Set",
-      "price": 99.98,
+      "id": "347128",
+      "name": "Socket and Tool Set 162 Piece",
+      "price": 259.0,
       "was_price": null,
       "discount_percent": 0,
       "url": ""
@@ -408,8 +405,7 @@
       "price": 199.0,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -436,8 +432,7 @@
       "price": 209.0,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -482,8 +477,7 @@
       "price": 56.98,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -501,8 +495,7 @@
       "price": 16.98,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -511,8 +504,7 @@
       "price": 13.98,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -521,8 +513,7 @@
       "price": 13.98,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -549,6 +540,15 @@
       "price": 75.98,
       "was_price": null,
       "discount_percent": 0,
+      "url": ""
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2043950",
+      "name": "RE Paint Bush Walk Green 10L",
+      "price": 69.0,
+      "was_price": null,
+      "discount_percent": 0,
       "url": "",
       "deal_type": "catalogue"
     },
@@ -559,8 +559,7 @@
       "price": 69.0,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -569,8 +568,7 @@
       "price": 69.0,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -579,8 +577,7 @@
       "price": 69.0,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -589,8 +586,7 @@
       "price": 139.0,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -599,8 +595,7 @@
       "price": 139.0,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -609,8 +604,7 @@
       "price": 49.98,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -619,8 +613,7 @@
       "price": 49.98,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -656,8 +649,7 @@
       "price": 119.0,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -684,8 +676,7 @@
       "price": 105.0,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -694,8 +685,7 @@
       "price": 109.0,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -704,8 +694,7 @@
       "price": 99.0,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -714,8 +703,7 @@
       "price": 70.98,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -724,8 +712,7 @@
       "price": 53.98,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -736,15 +723,6 @@
       "discount_percent": 19,
       "url": "",
       "deal_type": "sale"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "377169",
-      "name": "Satin Roof Paint 10L Iron sand",
-      "price": 175.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": ""
     }
   ],
   "stores": {
@@ -766,7 +744,7 @@
     "Farmers": {
       "products_found": 0,
       "ok": false,
-      "message": "Command '['farmers', 'search', 'home', '--prices', '--limit', '15', '--json']' timed out after 90 seconds; Command '['farmers', 'search', 'clothing', '--prices', '--limit', '15', '--json']' timed out after 90 seconds"
+      "message": "Command '['farmers', 'search', 'clothing', '--prices', '--limit', '15', '--json']' timed out after 90 seconds"
     }
   }
 }
