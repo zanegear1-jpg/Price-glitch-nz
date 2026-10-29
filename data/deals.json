@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-29T01:21:43.243905+00:00",
+  "updated_at": "2026-10-29T07:23:15.854011+00:00",
   "products": [
+    {
+      "store": "Mitre 10",
+      "id": "2009911",
+      "name": "Clearance Gloves Large – Not Food Grade",
+      "price": 9.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": ""
+    },
     {
       "store": "Mitre 10",
       "id": "2009912",
@@ -48,15 +57,6 @@
     },
     {
       "store": "Mitre 10",
-      "id": "2009911",
-      "name": "Clearance Gloves Large – Not Food Grade",
-      "price": 9.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": ""
-    },
-    {
-      "store": "Mitre 10",
       "id": "375701",
       "name": "Mansion Driveway Gates H:  1500mm x W:  1200-2350mm Black",
       "price": 2999.0,
@@ -98,8 +98,7 @@
       "price": 1499.0,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -135,8 +134,7 @@
       "price": 1729.0,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -154,8 +152,7 @@
       "price": 879.0,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -189,6 +186,15 @@
       "id": "296671",
       "name": "For Sale Sign W: 610mm, L: 457mm",
       "price": 55.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": ""
+    },
+    {
+      "store": "Mitre 10",
+      "id": "296696",
+      "name": "For Sale Sign W: 470mm, L: 368mm",
+      "price": 22.0,
       "was_price": null,
       "discount_percent": 0,
       "url": ""
@@ -252,15 +258,6 @@
       "id": "296701",
       "name": "Garage Sale Sign W: 470mm, L: 368mm",
       "price": 20.4,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": ""
-    },
-    {
-      "store": "Mitre 10",
-      "id": "296696",
-      "name": "For Sale Sign W: 470mm, L: 368mm",
-      "price": 22.0,
       "was_price": null,
       "discount_percent": 0,
       "url": ""
@@ -430,12 +427,42 @@
     },
     {
       "store": "Mitre 10",
+      "id": "329256",
+      "name": "Essential Tool Box 400mm",
+      "price": 27.48,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "328975",
+      "name": "Tool Bag H:260mm, W:460mm, D:240mm",
+      "price": 26.98,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
       "id": "327876",
       "name": "Aluminium Tool Box 1100mm",
       "price": 339.0,
       "was_price": null,
       "discount_percent": 0,
       "url": ""
+    },
+    {
+      "store": "Mitre 10",
+      "id": "276791",
+      "name": "Pick Up Tool 1000mm",
+      "price": 16.48,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
     },
     {
       "store": "Mitre 10",
@@ -462,8 +489,7 @@
       "price": 301.0,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -472,8 +498,7 @@
       "price": 228.0,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -482,8 +507,7 @@
       "price": 519.0,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -492,8 +516,7 @@
       "price": 258.0,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -502,8 +525,7 @@
       "price": 429.0,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -512,14 +534,13 @@
       "price": 99.98,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
     },
     {
       "store": "Mitre 10",
-      "id": "2032859",
-      "name": "Tool Bag  500mm",
-      "price": 40.78,
+      "id": "2036684",
+      "name": "Tool Box 450mm",
+      "price": 29.98,
       "was_price": null,
       "discount_percent": 0,
       "url": "",
@@ -527,9 +548,9 @@
     },
     {
       "store": "Mitre 10",
-      "id": "2032036",
-      "name": "Tool Cabinet 46 IN 9 Drawer H:944mm, W:1251mm, D:461mm Black",
-      "price": 904.0,
+      "id": "392059",
+      "name": "Solagard Exterior Water Based Paint 10L White",
+      "price": 229.0,
       "was_price": null,
       "discount_percent": 0,
       "url": "",
@@ -537,9 +558,9 @@
     },
     {
       "store": "Mitre 10",
-      "id": "2027596",
-      "name": "Tool Tote 460mm",
-      "price": 73.98,
+      "id": "392020",
+      "name": "Solagard Exterior Water Based Paint 10L Strong Base",
+      "price": 279.0,
       "was_price": null,
       "discount_percent": 0,
       "url": "",
@@ -547,9 +568,9 @@
     },
     {
       "store": "Mitre 10",
-      "id": "2024461",
-      "name": "Tool Box Large",
-      "price": 82.98,
+      "id": "392011",
+      "name": "Solagard Exterior Water Based Paint 10L White",
+      "price": 229.0,
       "was_price": null,
       "discount_percent": 0,
       "url": "",
@@ -589,8 +610,17 @@
       "price": 175.0,
       "was_price": null,
       "discount_percent": 0,
+      "url": ""
+    },
+    {
+      "store": "Mitre 10",
+      "id": "372505",
+      "name": "Universal Paint 10 Litre Black",
+      "price": 139.2,
+      "was_price": 174.0,
+      "discount_percent": 20,
       "url": "",
-      "deal_type": "catalogue"
+      "deal_type": "sale"
     },
     {
       "store": "Mitre 10",
@@ -604,6 +634,86 @@
     },
     {
       "store": "Mitre 10",
+      "id": "372494",
+      "name": "Roof Paint 10 litre Flaxpod 10L Flaxpod",
+      "price": 159.0,
+      "was_price": 199.0,
+      "discount_percent": 20,
+      "url": "",
+      "deal_type": "sale"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "372493",
+      "name": "Roof Paint 10 litre Ironsand 10L Ironsand",
+      "price": 159.0,
+      "was_price": 199.0,
+      "discount_percent": 20,
+      "url": "",
+      "deal_type": "sale"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "372492",
+      "name": "Roof Paint 10 litre Grey Friars 10L Grey Friars",
+      "price": 159.0,
+      "was_price": 199.0,
+      "discount_percent": 20,
+      "url": "",
+      "deal_type": "sale"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "372491",
+      "name": "Fence Paint 10 litre Ironsand",
+      "price": 69.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "372490",
+      "name": "Fence Paint 10 litre Karaka",
+      "price": 69.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "372489",
+      "name": "Fence Paint 10 litre Rustic Brown",
+      "price": 69.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "372487",
+      "name": "Fence Paint 10 litre Stone Grey",
+      "price": 69.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "372486",
+      "name": "Fence Paint 10 litre Ebony",
+      "price": 69.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
       "id": "361182",
       "name": "Non-Skid Deck & Path Waterborne Textured Paint 10L White",
       "price": 184.45,
@@ -614,142 +724,23 @@
     },
     {
       "store": "Mitre 10",
-      "id": "361181",
-      "name": "Non-Skid Deck & Path Waterborne Textured Paint 4L White",
-      "price": 121.86,
-      "was_price": 162.48,
+      "id": "361161",
+      "name": "Lumbersider Low Sheen Waterborne Paint 4L Ultra Deep Base",
+      "price": 140.07,
+      "was_price": 186.76,
       "discount_percent": 25,
       "url": "",
       "deal_type": "sale"
     },
     {
       "store": "Mitre 10",
-      "id": "360080",
-      "name": "Solagard Satin Roof Paint 10L Karaka",
-      "price": 255.0,
-      "was_price": null,
-      "discount_percent": 0,
+      "id": "361149",
+      "name": "Lumbersider Low Sheen Waterborne Paint 10L White",
+      "price": 184.45,
+      "was_price": 245.93,
+      "discount_percent": 25,
       "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "329204",
-      "name": "MULTIMAX Multi-Purpose Paint Water Based Acrylic and Linseed Oil 10L Intense Black Intense Black",
-      "price": 163.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "2043949",
-      "name": "RE Paint Beach White 10L",
-      "price": 69.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": ""
-    },
-    {
-      "store": "Mitre 10",
-      "id": "2011266",
-      "name": "Garage Floor Deck and Path Paint 10 Litre Concrete",
-      "price": 319.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "408980",
-      "name": "Solagard Roof Paint Satin 10L Colorsteel Ebony",
-      "price": 255.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "408979",
-      "name": "Solagard Roof Paint Satin 10L Colorsteel Flaxpod",
-      "price": 255.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "392062",
-      "name": "Solagard Exterior Water Based Paint 10L Strong Base",
-      "price": 279.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "392061",
-      "name": "Solagard Exterior Water Based Paint 4L Strong Base",
-      "price": 174.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "392032",
-      "name": "Solagard Exterior Water Based Paint 10L White",
-      "price": 229.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "392019",
-      "name": "Solagard Exterior Water Based Paint 4L Strong Base",
-      "price": 174.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "392014",
-      "name": "Solagard Exterior Water Based Paint 10L Light Base",
-      "price": 279.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "392010",
-      "name": "Solagard Exterior Water Based Paint 4L White",
-      "price": 139.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "387237",
-      "name": "PAVEMAX Acrylic Paving Paint Water Based 4L Wolf Grey Wolf Grey",
-      "price": 145.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "deal_type": "sale"
     }
   ],
   "stores": {
@@ -771,7 +762,7 @@
     "Farmers": {
       "products_found": 0,
       "ok": false,
-      "message": "Command '['farmers', 'search', 'clearance', '--prices', '--limit', '15', '--json']' timed out after 90 seconds"
+      "message": "No matching products returned"
     }
   }
 }
