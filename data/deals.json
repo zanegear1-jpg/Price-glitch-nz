@@ -1,83 +1,11 @@
 {
-  "updated_at": "2026-10-30T19:12:20.279274+00:00",
+  "updated_at": "2026-10-31T01:25:01.644162+00:00",
   "products": [
     {
       "store": "Mitre 10",
-      "id": "366967",
-      "name": "Rangitata Inbuilt ULEB Zero Clearance Wood Fire Small to Medium Homes",
-      "price": 4000.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": ""
-    },
-    {
-      "store": "Mitre 10",
-      "id": "303714",
-      "name": "Inbuilt Flue Kit Zero Clearance 4.2m",
-      "price": 1149.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": ""
-    },
-    {
-      "store": "Mitre 10",
-      "id": "2009912",
-      "name": "Clearance Gloves Extra Large - Not Food Grade",
-      "price": 9.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": ""
-    },
-    {
-      "store": "Mitre 10",
-      "id": "2009911",
-      "name": "Clearance Gloves Large – Not Food Grade",
-      "price": 9.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": ""
-    },
-    {
-      "store": "Mitre 10",
-      "id": "232680",
-      "name": "Totara Zero Clearance Flue Kit",
-      "price": 788.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": ""
-    },
-    {
-      "store": "Mitre 10",
-      "id": "1206323",
-      "name": "Rangitata Inbuilt ULEB Zero Clearance Wood Fire and Flue Kit",
-      "price": 5149.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": ""
-    },
-    {
-      "store": "Mitre 10",
-      "id": "372029",
-      "name": "Aluminium 3 Section Ladder 2.3-3.05m  12 step",
-      "price": 250.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": ""
-    },
-    {
-      "store": "Mitre 10",
-      "id": "2015511",
-      "name": "P/Lock Mgnm Lam 45mm 64mm Shk",
-      "price": 69.98,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": ""
-    },
-    {
-      "store": "Mitre 10",
-      "id": "375701",
-      "name": "Mansion Driveway Gates H:  1500mm x W:  1200-2350mm Black",
-      "price": 2999.0,
+      "id": "2054084",
+      "name": "Albury Outdoor 3 Piece Bistro Setting",
+      "price": 639.0,
       "was_price": null,
       "discount_percent": 0,
       "url": "",
@@ -85,27 +13,9 @@
     },
     {
       "store": "Mitre 10",
-      "id": "375698",
-      "name": "Mansion Single Driveway Gate H:  1500mm x W:  1200-2350mm Black",
-      "price": 1499.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": ""
-    },
-    {
-      "store": "Mitre 10",
-      "id": "2015512",
-      "name": "P/Lock Mgnm Lam 50mm 64mm Shk",
-      "price": 85.98,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": ""
-    },
-    {
-      "store": "Mitre 10",
-      "id": "2007461",
-      "name": "DIY Brushless Cordless Garden Leaf Blower Skin Only 36 Volt",
-      "price": 419.0,
+      "id": "2054052",
+      "name": "Raglan Outdoor 3 Piece Lounge Setting",
+      "price": 999.0,
       "was_price": null,
       "discount_percent": 0,
       "url": "",
@@ -113,9 +23,9 @@
     },
     {
       "store": "Mitre 10",
-      "id": "375706",
-      "name": "Fortress Single Driveway Gate S/R H:  1800mm x W:  1175-2350mm Black",
-      "price": 1695.0,
+      "id": "2054042",
+      "name": "Raven Outdoor Hanging Egg Chair",
+      "price": 479.0,
       "was_price": null,
       "discount_percent": 0,
       "url": "",
@@ -123,63 +33,169 @@
     },
     {
       "store": "Mitre 10",
-      "id": "375702",
-      "name": "Mansion Driveway Gates H:  1800mm x W:  1200-2350mm Black",
-      "price": 3099.0,
+      "id": "2054032",
+      "name": "Santo Outdoor 5 Piece Bar Setting",
+      "price": 599.0,
       "was_price": null,
       "discount_percent": 0,
-      "url": ""
+      "url": "",
+      "deal_type": "catalogue"
     },
     {
       "store": "Mitre 10",
-      "id": "375700",
-      "name": "Mansion Driveway Gates H: 1200mm x W: 1200-2350mm Black",
-      "price": 2969.0,
+      "id": "2027846",
+      "name": "Café and Sun Outdoor Relaxing Resin Tub Chair  Avocado",
+      "price": 95.0,
       "was_price": null,
       "discount_percent": 0,
-      "url": ""
+      "url": "",
+      "deal_type": "catalogue"
     },
     {
       "store": "Mitre 10",
-      "id": "375699",
-      "name": "Mansion Single Driveway Gate H:  1800mm x W:  1200-2350mm Black",
-      "price": 1549.0,
+      "id": "2027842",
+      "name": "Café and Sun Outdoor Relaxing Resin Tub Chair  Burnt Orange",
+      "price": 95.0,
       "was_price": null,
       "discount_percent": 0,
-      "url": ""
+      "url": "",
+      "deal_type": "catalogue"
     },
     {
       "store": "Mitre 10",
-      "id": "375693",
-      "name": "Alto Single Driveway Gate H:  1500mm x W:  1200-2350mm Black",
-      "price": 1455.0,
+      "id": "2027740",
+      "name": "Edge Outdoor Dining Table 2400m Teak",
+      "price": 1599.0,
       "was_price": null,
       "discount_percent": 0,
-      "url": ""
+      "url": "",
+      "deal_type": "catalogue"
     },
     {
       "store": "Mitre 10",
-      "id": "375692",
-      "name": "Alto Single Driveway Gate H: 1200mm x W: 1210-2350mm Black",
-      "price": 1455.0,
+      "id": "2027652",
+      "name": "Baha Outdoor Bistro Pods 3 Piece",
+      "price": 1299.0,
       "was_price": null,
       "discount_percent": 0,
-      "url": ""
+      "url": "",
+      "deal_type": "catalogue"
     },
     {
       "store": "Mitre 10",
-      "id": "375687",
-      "name": "Delta Double Driveway Gates H: 1200mm x W: 1200-2300mm Black",
-      "price": 2899.0,
+      "id": "2001416",
+      "name": "Tuscany Triple Lounger",
+      "price": 1199.0,
       "was_price": null,
       "discount_percent": 0,
-      "url": ""
+      "url": "",
+      "deal_type": "catalogue"
     },
     {
       "store": "Mitre 10",
-      "id": "375685",
-      "name": "Delta Single Driveway Gate H: 1200mm x W: 1200-2300mm Black",
-      "price": 1459.0,
+      "id": "2001415",
+      "name": "Tuscany Double  Lounger",
+      "price": 849.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "335977",
+      "name": "Siena Outdoor Corner Lounge Setting 3 Piece",
+      "price": 1999.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2054177",
+      "name": "Mila Outdoor Triple Lounge Chair",
+      "price": 999.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2054175",
+      "name": "Mila Outdoor Single Lounge Chair",
+      "price": 499.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2054063",
+      "name": "Eden Outdoor Folding Bistro Chair",
+      "price": 129.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2054045",
+      "name": "Raven Outdoor 3 Piece Lounge Setting",
+      "price": 699.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2054040",
+      "name": "Chicago Outdoor Dining Table 1100mm",
+      "price": 479.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2054029",
+      "name": "Levin Outdoor 4 Piece Lounge Setting",
+      "price": 799.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2027817",
+      "name": "Café and Sun Outdoor Relaxing Resin Tub Chair Stone Blue",
+      "price": 95.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2027736",
+      "name": "Elion Outdoor Dining Table with Fairstone Sintered Top",
+      "price": 719.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2054061",
+      "name": "Peyton Outdoor Dining Chair",
+      "price": 199.0,
       "was_price": null,
       "discount_percent": 0,
       "url": "",
@@ -196,8 +212,8 @@
     },
     {
       "store": "Mitre 10",
-      "id": "296671",
-      "name": "For Sale Sign W: 610mm, L: 457mm",
+      "id": "296670",
+      "name": "For Sale Sign W: 610mm, L: 482mm Yellow",
       "price": 55.0,
       "was_price": null,
       "discount_percent": 0,
@@ -214,17 +230,8 @@
     },
     {
       "store": "Mitre 10",
-      "id": "296670",
-      "name": "For Sale Sign W: 610mm, L: 482mm Yellow",
-      "price": 55.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": ""
-    },
-    {
-      "store": "Mitre 10",
-      "id": "296508",
-      "name": "Auto For Sale Sign W: 355mm, L: 228mm",
+      "id": "296504",
+      "name": "House For Sale Sign W: 355mm, L: 228mm",
       "price": 12.0,
       "was_price": null,
       "discount_percent": 0,
@@ -241,9 +248,9 @@
     },
     {
       "store": "Mitre 10",
-      "id": "296504",
-      "name": "House For Sale Sign W: 355mm, L: 228mm",
-      "price": 12.0,
+      "id": "296486",
+      "name": "Garage Sale Sign W: 305mm, L: 216mm",
+      "price": 11.2,
       "was_price": null,
       "discount_percent": 0,
       "url": ""
@@ -259,9 +266,18 @@
     },
     {
       "store": "Mitre 10",
-      "id": "296486",
-      "name": "Garage Sale Sign W: 305mm, L: 216mm",
-      "price": 11.2,
+      "id": "296671",
+      "name": "For Sale Sign W: 610mm, L: 457mm",
+      "price": 55.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": ""
+    },
+    {
+      "store": "Mitre 10",
+      "id": "296508",
+      "name": "Auto For Sale Sign W: 355mm, L: 228mm",
+      "price": 12.0,
       "was_price": null,
       "discount_percent": 0,
       "url": ""
@@ -304,6 +320,15 @@
     },
     {
       "store": "Mitre 10",
+      "id": "205037",
+      "name": "Fortune Series Latch Furniture Chrome Plate",
+      "price": 77.98,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": ""
+    },
+    {
+      "store": "Mitre 10",
       "id": "205048",
       "name": "Fortune Series Lock Furniture Chrome Plate",
       "price": 90.98,
@@ -315,15 +340,6 @@
       "store": "Mitre 10",
       "id": "205039",
       "name": "Fortune Series Latch Furniture Satin Chrome Plate",
-      "price": 77.98,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": ""
-    },
-    {
-      "store": "Mitre 10",
-      "id": "205037",
-      "name": "Fortune Series Latch Furniture Chrome Plate",
       "price": 77.98,
       "was_price": null,
       "discount_percent": 0,
@@ -368,32 +384,12 @@
     },
     {
       "store": "Mitre 10",
-      "id": "364635",
-      "name": "Tool Set",
-      "price": 99.98,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "347128",
-      "name": "Socket and Tool Set 162 Piece",
-      "price": 259.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": ""
-    },
-    {
-      "store": "Mitre 10",
       "id": "415453",
       "name": "Tool Cabinet With Timber Top Black H:1490mm, W:1870mm, D:600mm",
       "price": 1871.0,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -406,23 +402,12 @@
     },
     {
       "store": "Mitre 10",
-      "id": "398293",
-      "name": "Socket & Tool Set 110 Piece",
-      "price": 199.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
       "id": "392455",
       "name": "Tool Tote 430mm",
       "price": 44.98,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -435,13 +420,21 @@
     },
     {
       "store": "Mitre 10",
-      "id": "363005",
-      "name": "ToughSystem Tool Box Large",
-      "price": 209.0,
+      "id": "364635",
+      "name": "Tool Set",
+      "price": 99.98,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
+    },
+    {
+      "store": "Mitre 10",
+      "id": "347128",
+      "name": "Socket and Tool Set 162 Piece",
+      "price": 259.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -454,22 +447,12 @@
     },
     {
       "store": "Mitre 10",
-      "id": "329256",
-      "name": "Essential Tool Box 400mm",
-      "price": 27.48,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": ""
-    },
-    {
-      "store": "Mitre 10",
       "id": "328975",
       "name": "Tool Bag H:260mm, W:460mm, D:240mm",
       "price": 26.98,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -482,58 +465,97 @@
     },
     {
       "store": "Mitre 10",
-      "id": "326713",
-      "name": "16 in 1 Multi Tool H: 90mm, W: 129mm, D:232mm",
-      "price": 56.98,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "276791",
-      "name": "Pick Up Tool 1000mm",
-      "price": 16.48,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "276705",
-      "name": "Tool Bag 420mm",
-      "price": 16.98,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "253582",
-      "name": "Crimping Tool 200mm Black and Red",
-      "price": 13.98,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "249634",
-      "name": "Pro Carving Tool Set 12 Piece",
-      "price": 13.98,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
       "id": "247114",
       "name": "Tool Apron 600 X 255 X 75mm Black and Yellow",
+      "price": 66.98,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": ""
+    },
+    {
+      "store": "Mitre 10",
+      "id": "227035",
+      "name": "ProClamp Tool with Checking Gauge 20mm Yellow",
+      "price": 301.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2061031",
+      "name": "5-Drawer Tool Trolley H: 765 mm, W: 680 mm, D: 330mm Black",
+      "price": 228.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2055074",
+      "name": "5-Drawer Tool Trolley 68 cm (27in)  H: 972 mm, W: 760 mm, D: 462mm Black",
+      "price": 519.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2032036",
+      "name": "Tool Cabinet 46 IN 9 Drawer H:944mm, W:1251mm, D:461mm Black",
+      "price": 904.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2027596",
+      "name": "Tool Tote 460mm",
+      "price": 73.98,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2024463",
+      "name": "Tool Organiser",
+      "price": 53.98,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2024462",
+      "name": "Tool Organiser",
+      "price": 69.98,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2024461",
+      "name": "Tool Box Large",
+      "price": 82.98,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2024460",
+      "name": "Tool Box Medium",
       "price": 66.98,
       "was_price": null,
       "discount_percent": 0,
@@ -542,112 +564,13 @@
     },
     {
       "store": "Mitre 10",
-      "id": "245291",
-      "name": "QuickClamp Mini Tool with Checking Gauge 15mm Black",
-      "price": 125.0,
+      "id": "2003538",
+      "name": "DIY Tool Kit Pink",
+      "price": 74.98,
       "was_price": null,
       "discount_percent": 0,
       "url": "",
       "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "235861",
-      "name": "Pro Tool Bag 450mm",
-      "price": 75.98,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "2043950",
-      "name": "RE Paint Bush Walk Green 10L",
-      "price": 69.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "2043949",
-      "name": "RE Paint Beach White 10L",
-      "price": 69.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "2043952",
-      "name": "RE Paint Graphite 10L",
-      "price": 69.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "2043951",
-      "name": "RE Paint Greystone 10L",
-      "price": 69.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "400827",
-      "name": "Solagard Exterior Semi-Gloss Paint 8 litre White",
-      "price": 139.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "400826",
-      "name": "Solagard Exterior Low Sheen Paint 8 litre White",
-      "price": 139.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "397928",
-      "name": "Concrete&Garage Floor Paint 3.78 Litre Battleship Grey",
-      "price": 49.98,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "397927",
-      "name": "Concrete&Garage Floor Paint 3.78 Litre Armour Grey",
-      "price": 49.98,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "392059",
-      "name": "Solagard Exterior Water Based Paint 10L White",
-      "price": 229.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -656,8 +579,7 @@
       "price": 279.0,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -670,23 +592,12 @@
     },
     {
       "store": "Mitre 10",
-      "id": "389037",
-      "name": "Waterborne Ceiling Paint 10L White",
-      "price": 119.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
       "id": "387240",
       "name": "PAVEMAX Acrylic Paving Paint Water Based 4L Elephant Grey Elephant Grey",
       "price": 145.0,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -699,9 +610,9 @@
     },
     {
       "store": "Mitre 10",
-      "id": "380339",
-      "name": "Satin Kitchen Bath & Laundry Paint & Prime 4L White Base",
-      "price": 105.0,
+      "id": "377169",
+      "name": "Satin Roof Paint 10L Iron sand",
+      "price": 175.0,
       "was_price": null,
       "discount_percent": 0,
       "url": "",
@@ -709,9 +620,9 @@
     },
     {
       "store": "Mitre 10",
-      "id": "380328",
-      "name": "Low Sheen Interior Paint & Prime 8L White Base",
-      "price": 109.0,
+      "id": "377168",
+      "name": "Satin Roof Paint 10L Grey Friars",
+      "price": 175.0,
       "was_price": null,
       "discount_percent": 0,
       "url": "",
@@ -719,43 +630,143 @@
     },
     {
       "store": "Mitre 10",
-      "id": "380327",
-      "name": "Low Sheen Interior Paint & Prime 4L White Base",
-      "price": 99.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "380326",
-      "name": "Low Sheen Interior Paint & Prime 2L White Base",
-      "price": 70.98,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "380325",
-      "name": "Low Sheen Interior Paint & Prime 1L White Base",
-      "price": 53.98,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "380324",
-      "name": "Low Sheen Interior Paint & Prime 10L White Base",
-      "price": 139.0,
-      "was_price": 172.0,
-      "discount_percent": 19,
+      "id": "372496",
+      "name": "Roof Paint 10 litre Ebony 10L Ebony",
+      "price": 159.0,
+      "was_price": 199.0,
+      "discount_percent": 20,
       "url": "",
       "deal_type": "sale"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "372492",
+      "name": "Roof Paint 10 litre Grey Friars 10L Grey Friars",
+      "price": 159.0,
+      "was_price": 199.0,
+      "discount_percent": 20,
+      "url": "",
+      "deal_type": "sale"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "372490",
+      "name": "Fence Paint 10 litre Karaka",
+      "price": 69.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "372486",
+      "name": "Fence Paint 10 litre Ebony",
+      "price": 69.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "361182",
+      "name": "Non-Skid Deck & Path Waterborne Textured Paint 10L White",
+      "price": 184.45,
+      "was_price": 245.93,
+      "discount_percent": 25,
+      "url": "",
+      "deal_type": "sale"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "361181",
+      "name": "Non-Skid Deck & Path Waterborne Textured Paint 4L White",
+      "price": 121.86,
+      "was_price": 162.48,
+      "discount_percent": 25,
+      "url": "",
+      "deal_type": "sale"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "361147",
+      "name": "Lumbersider Low Sheen Waterborne Paint 2L White",
+      "price": 77.1,
+      "was_price": 102.8,
+      "discount_percent": 25,
+      "url": "",
+      "deal_type": "sale"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "361066",
+      "name": "Solagard Satin Roof Paint 10L Ironsand",
+      "price": 255.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "360080",
+      "name": "Solagard Satin Roof Paint 10L Karaka",
+      "price": 255.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "329204",
+      "name": "MULTIMAX Multi-Purpose Paint Water Based Acrylic and Linseed Oil 10L Intense Black Intense Black",
+      "price": 163.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "239339",
+      "name": "Walk-on Flooring and paving paint 3.96L Mid colours",
+      "price": 140.07,
+      "was_price": 186.76,
+      "discount_percent": 25,
+      "url": "",
+      "deal_type": "sale"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "183087",
+      "name": "Solarmax Semi-Gloss Exterior Paint 10L White",
+      "price": 139.0,
+      "was_price": 179.0,
+      "discount_percent": 22,
+      "url": "",
+      "deal_type": "sale"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "183080",
+      "name": "Solarmax Low Sheen Exterior Paint 10L White",
+      "price": 139.0,
+      "was_price": 179.0,
+      "discount_percent": 22,
+      "url": "",
+      "deal_type": "sale"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "408979",
+      "name": "Solagard Roof Paint Satin 10L Colorsteel Flaxpod",
+      "price": 255.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
     }
   ],
   "stores": {
