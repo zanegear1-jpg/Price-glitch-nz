@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T19:51:34.485779+00:00",
+  "updated_at": "2026-11-12T07:24:33.342724+00:00",
   "products": [
     {
       "store": "Mitre 10",
@@ -741,7 +741,7 @@
     "Farmers": {
       "products_found": 0,
       "ok": false,
-      "message": "Command '['farmers', 'search', 'clothing', '--prices', '--limit', '15', '--json']' timed out after 90 seconds"
+      "message": "Command '['farmers', 'search', 'home', '--prices', '--limit', '15', '--json']' timed out after 90 seconds; Command '['farmers', 'search', 'clothing', '--prices', '--limit', '15', '--json']' timed out after 90 seconds"
     }
   }
 }
