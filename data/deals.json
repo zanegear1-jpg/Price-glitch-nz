@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T20:12:11.856339+00:00",
+  "updated_at": "2026-11-13T07:01:32.460278+00:00",
   "products": [
     {
       "store": "Mitre 10",
@@ -363,92 +363,21 @@
     },
     {
       "store": "Mitre 10",
-      "id": "415453",
-      "name": "Tool Cabinet With Timber Top Black H:1490mm, W:1870mm, D:600mm",
-      "price": 1871.0,
+      "id": "347128",
+      "name": "Socket and Tool Set 162 Piece",
+      "price": 259.0,
       "was_price": null,
       "discount_percent": 0,
       "url": ""
     },
     {
       "store": "Mitre 10",
-      "id": "415405",
-      "name": "Duffle Tool Bag 530mm",
-      "price": 212.0,
+      "id": "415453",
+      "name": "Tool Cabinet With Timber Top Black H:1490mm, W:1870mm, D:600mm",
+      "price": 1871.0,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "415404",
-      "name": "Tool Bag Half Width",
-      "price": 165.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "415451",
-      "name": "Tool Chest Black and Red H:593mm, W:1055mm, D:448mm",
-      "price": 675.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "415448",
-      "name": "Rolling Tool Cabinet Black and Red H:985mm, W:763mm, D:462mm",
-      "price": 599.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "446877",
-      "name": "Tile Tool Kit 4 pieces Blue & Silver",
-      "price": 24.16,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "415444",
-      "name": "Chest And Roller Cabinet With Bonus 125 Piece Tool Set Black & Red Chest - H:350mm, W:600mm, D:255mm Cabinet",
-      "price": 449.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "412776",
-      "name": "Tool Holder",
-      "price": 5.76,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "415452",
-      "name": "Rolling Tool Cabinet Black H:1070mm, W:1148mm, D:460mm Black & Red",
-      "price": 999.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -491,15 +420,6 @@
       "id": "364635",
       "name": "Tool Set",
       "price": 99.98,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": ""
-    },
-    {
-      "store": "Mitre 10",
-      "id": "347128",
-      "name": "Socket and Tool Set 162 Piece",
-      "price": 259.0,
       "was_price": null,
       "discount_percent": 0,
       "url": ""
@@ -551,9 +471,9 @@
     },
     {
       "store": "Mitre 10",
-      "id": "408980",
-      "name": "Solagard Roof Paint Satin 10L Colorsteel Ebony",
-      "price": 255.0,
+      "id": "276705",
+      "name": "Tool Bag 420mm",
+      "price": 16.98,
       "was_price": null,
       "discount_percent": 0,
       "url": "",
@@ -561,9 +481,109 @@
     },
     {
       "store": "Mitre 10",
-      "id": "408979",
-      "name": "Solagard Roof Paint Satin 10L Colorsteel Flaxpod",
-      "price": 255.0,
+      "id": "253582",
+      "name": "Crimping Tool 200mm Black and Red",
+      "price": 13.98,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "249634",
+      "name": "Pro Carving Tool Set 12 Piece",
+      "price": 13.98,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "247114",
+      "name": "Tool Apron 600 X 255 X 75mm Black and Yellow",
+      "price": 66.98,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "245291",
+      "name": "QuickClamp Mini Tool with Checking Gauge 15mm Black",
+      "price": 125.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "235861",
+      "name": "Pro Tool Bag 450mm",
+      "price": 75.98,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "229921",
+      "name": "Tool Set 160 Piece",
+      "price": 52.98,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2061031",
+      "name": "5-Drawer Tool Trolley H: 765 mm, W: 680 mm, D: 330mm Black",
+      "price": 228.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2043951",
+      "name": "RE Paint Greystone 10L",
+      "price": 69.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2043949",
+      "name": "RE Paint Beach White 10L",
+      "price": 69.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2043952",
+      "name": "RE Paint Graphite 10L",
+      "price": 69.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2043950",
+      "name": "RE Paint Bush Walk Green 10L",
+      "price": 69.0,
       "was_price": null,
       "discount_percent": 0,
       "url": "",
@@ -634,6 +654,16 @@
     },
     {
       "store": "Mitre 10",
+      "id": "389037",
+      "name": "Waterborne Ceiling Paint 10L White",
+      "price": 119.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
       "id": "387240",
       "name": "PAVEMAX Acrylic Paving Paint Water Based 4L Elephant Grey Elephant Grey",
       "price": 145.0,
@@ -652,9 +682,9 @@
     },
     {
       "store": "Mitre 10",
-      "id": "372505",
-      "name": "Universal Paint 10 Litre Black",
-      "price": 174.0,
+      "id": "380339",
+      "name": "Satin Kitchen Bath & Laundry Paint & Prime 4L White Base",
+      "price": 105.0,
       "was_price": null,
       "discount_percent": 0,
       "url": "",
@@ -662,9 +692,9 @@
     },
     {
       "store": "Mitre 10",
-      "id": "372496",
-      "name": "Roof Paint 10 litre Ebony 10L Ebony",
-      "price": 199.0,
+      "id": "380328",
+      "name": "Low Sheen Interior Paint & Prime 8L White Base",
+      "price": 109.0,
       "was_price": null,
       "discount_percent": 0,
       "url": "",
@@ -672,9 +702,9 @@
     },
     {
       "store": "Mitre 10",
-      "id": "372494",
-      "name": "Roof Paint 10 litre Flaxpod 10L Flaxpod",
-      "price": 199.0,
+      "id": "380327",
+      "name": "Low Sheen Interior Paint & Prime 4L White Base",
+      "price": 99.0,
       "was_price": null,
       "discount_percent": 0,
       "url": "",
@@ -682,9 +712,9 @@
     },
     {
       "store": "Mitre 10",
-      "id": "372493",
-      "name": "Roof Paint 10 litre Ironsand 10L Ironsand",
-      "price": 199.0,
+      "id": "380326",
+      "name": "Low Sheen Interior Paint & Prime 2L White Base",
+      "price": 70.98,
       "was_price": null,
       "discount_percent": 0,
       "url": "",
@@ -692,9 +722,9 @@
     },
     {
       "store": "Mitre 10",
-      "id": "372492",
-      "name": "Roof Paint 10 litre Grey Friars 10L Grey Friars",
-      "price": 199.0,
+      "id": "380325",
+      "name": "Low Sheen Interior Paint & Prime 1L White Base",
+      "price": 53.98,
       "was_price": null,
       "discount_percent": 0,
       "url": "",
@@ -702,39 +732,9 @@
     },
     {
       "store": "Mitre 10",
-      "id": "372491",
-      "name": "Fence Paint 10 litre Ironsand",
-      "price": 69.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "372490",
-      "name": "Fence Paint 10 litre Karaka",
-      "price": 69.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "372489",
-      "name": "Fence Paint 10 litre Rustic Brown",
-      "price": 69.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "372487",
-      "name": "Fence Paint 10 litre Stone Grey",
-      "price": 69.0,
+      "id": "380324",
+      "name": "Low Sheen Interior Paint & Prime 10L White Base",
+      "price": 172.0,
       "was_price": null,
       "discount_percent": 0,
       "url": "",
@@ -760,7 +760,7 @@
     "Farmers": {
       "products_found": 0,
       "ok": false,
-      "message": "Command '['farmers', 'search', 'clearance', '--prices', '--limit', '15', '--json']' timed out after 90 seconds; Command '['farmers', 'search', 'clothing', '--prices', '--limit', '15', '--json']' timed out after 90 seconds"
+      "message": "Command '['farmers', 'search', 'home', '--prices', '--limit', '15', '--json']' timed out after 90 seconds; Command '['farmers', 'search', 'clothing', '--prices', '--limit', '15', '--json']' timed out after 90 seconds"
     }
   }
 }
