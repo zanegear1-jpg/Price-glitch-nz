@@ -1,15 +1,6 @@
 {
-  "updated_at": "2026-11-18T20:45:50.123658+00:00",
+  "updated_at": "2026-11-19T07:35:36.826249+00:00",
   "products": [
-    {
-      "store": "Mitre 10",
-      "id": "2054084",
-      "name": "Albury Outdoor 3 Piece Bistro Setting",
-      "price": 639.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": ""
-    },
     {
       "store": "Mitre 10",
       "id": "2054052",
@@ -24,15 +15,6 @@
       "id": "2054042",
       "name": "Raven Outdoor Hanging Egg Chair",
       "price": 479.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": ""
-    },
-    {
-      "store": "Mitre 10",
-      "id": "2054032",
-      "name": "Santo Outdoor 5 Piece Bar Setting",
-      "price": 599.0,
       "was_price": null,
       "discount_percent": 0,
       "url": ""
@@ -57,31 +39,12 @@
     },
     {
       "store": "Mitre 10",
-      "id": "2027740",
-      "name": "Edge Outdoor Dining Table 2400m Teak",
-      "price": 1599.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": ""
-    },
-    {
-      "store": "Mitre 10",
-      "id": "2027652",
-      "name": "Baha Outdoor Bistro Pods 3 Piece",
-      "price": 1299.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": ""
-    },
-    {
-      "store": "Mitre 10",
       "id": "2001501",
       "name": "Tuscany Coffee Table",
       "price": 299.0,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "url": ""
     },
     {
       "store": "Mitre 10",
@@ -108,16 +71,6 @@
       "price": 449.0,
       "was_price": null,
       "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "2001406",
-      "name": "Milano Folding Bistro Table",
-      "price": 159.0,
-      "was_price": null,
-      "discount_percent": 0,
       "url": ""
     },
     {
@@ -128,16 +81,6 @@
       "was_price": null,
       "discount_percent": 0,
       "url": ""
-    },
-    {
-      "store": "Mitre 10",
-      "id": "319590",
-      "name": "Outdoor Seat Cushion Alpha Grey",
-      "price": 13.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
     },
     {
       "store": "Mitre 10",
@@ -159,29 +102,88 @@
     },
     {
       "store": "Mitre 10",
-      "id": "2054121",
-      "name": "Outdoor Cushion 43cm Yellow Stripe",
-      "price": 15.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "2054095",
-      "name": "Eden Outdoor Folding Bistro Table 630 mm",
-      "price": 129.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
       "id": "2054083",
       "name": "Hanging Pet Egg Chair",
       "price": 79.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": ""
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2054045",
+      "name": "Raven Outdoor 3 Piece Lounge Setting",
+      "price": 699.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2054029",
+      "name": "Levin Outdoor 4 Piece Lounge Setting",
+      "price": 799.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2054023",
+      "name": "Mila Outdoor Coffee Table 1300mm",
+      "price": 199.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2027852",
+      "name": "Vivid Outdoor Resin Side Table White",
+      "price": 69.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2027817",
+      "name": "Café and Sun Outdoor Relaxing Resin Tub Chair Stone Blue",
+      "price": 95.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2054044",
+      "name": "Raven Outdoor Standing Egg Chair",
+      "price": 399.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2054043",
+      "name": "Raven Outdoor Relaxing Chair with Foot Rest",
+      "price": 399.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2027822",
+      "name": "Café and Sun Outdoor Relaxing Resin Tub Chair Aqua Blue",
+      "price": 95.0,
       "was_price": null,
       "discount_percent": 0,
       "url": "",
@@ -379,16 +381,6 @@
     },
     {
       "store": "Mitre 10",
-      "id": "347128",
-      "name": "Socket and Tool Set 162 Piece",
-      "price": 259.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
       "id": "389052",
       "name": "2 Piece Barbecue Tool Set (Tongs & Spatula)",
       "price": 53.96,
@@ -569,43 +561,13 @@
     },
     {
       "store": "Mitre 10",
-      "id": "2043951",
-      "name": "RE Paint Greystone 10L",
-      "price": 69.0,
-      "was_price": null,
-      "discount_percent": 0,
+      "id": "363962",
+      "name": "V20 Cordless Hedge Trimmer Kit 550mm",
+      "price": 231.2,
+      "was_price": 289.0,
+      "discount_percent": 20,
       "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "2043949",
-      "name": "RE Paint Beach White 10L",
-      "price": 69.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "2043952",
-      "name": "RE Paint Graphite 10L",
-      "price": 69.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "2043950",
-      "name": "RE Paint Bush Walk Green 10L",
-      "price": 69.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": "",
-      "deal_type": "catalogue"
+      "deal_type": "sale"
     },
     {
       "store": "Mitre 10",
@@ -766,6 +728,46 @@
       "discount_percent": 39,
       "url": "",
       "deal_type": "sale"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2017383",
+      "name": "Prime & Paint Aerosol Spray Paint 400ml White",
+      "price": 11.0,
+      "was_price": 17.98,
+      "discount_percent": 39,
+      "url": "",
+      "deal_type": "sale"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2017380",
+      "name": "Prime & Paint Aerosol Spray Paint 400ml Black",
+      "price": 11.0,
+      "was_price": 17.98,
+      "discount_percent": 39,
+      "url": "",
+      "deal_type": "sale"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2017405",
+      "name": "Prime & Paint Aerosol Spray Paint 400ml White",
+      "price": 11.0,
+      "was_price": 17.98,
+      "discount_percent": 39,
+      "url": "",
+      "deal_type": "sale"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2017404",
+      "name": "Prime & Paint Aerosol Spray Paint 400ml Cream",
+      "price": 11.0,
+      "was_price": 17.98,
+      "discount_percent": 39,
+      "url": "",
+      "deal_type": "sale"
     }
   ],
   "stores": {
@@ -787,7 +789,7 @@
     "Farmers": {
       "products_found": 0,
       "ok": false,
-      "message": "Command '['farmers', 'search', 'home', '--prices', '--limit', '15', '--json']' timed out after 90 seconds; Command '['farmers', 'search', 'clothing', '--prices', '--limit', '15', '--json']' timed out after 90 seconds"
+      "message": "No matching products returned"
     }
   }
 }
