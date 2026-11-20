@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T07:29:24.887185+00:00",
+  "updated_at": "2026-11-20T20:34:18.897824+00:00",
   "products": [
     {
       "store": "Mitre 10",
@@ -776,7 +776,7 @@
     "Farmers": {
       "products_found": 0,
       "ok": false,
-      "message": "Command '['farmers', 'search', 'clearance', '--prices', '--limit', '15', '--json']' timed out after 90 seconds"
+      "message": "No matching products returned"
     }
   }
 }
