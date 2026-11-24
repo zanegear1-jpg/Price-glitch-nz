@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-11-24T10:12:13.777993+00:00",
+  "updated_at": "2026-11-24T22:40:56.116938+00:00",
   "products": [
+    {
+      "store": "Mitre 10",
+      "id": "2054043",
+      "name": "Raven Outdoor Relaxing Chair with Foot Rest",
+      "price": 399.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": ""
+    },
     {
       "store": "Mitre 10",
       "id": "2054052",
@@ -158,15 +167,6 @@
       "store": "Mitre 10",
       "id": "2054044",
       "name": "Raven Outdoor Standing Egg Chair",
-      "price": 399.0,
-      "was_price": null,
-      "discount_percent": 0,
-      "url": ""
-    },
-    {
-      "store": "Mitre 10",
-      "id": "2054043",
-      "name": "Raven Outdoor Relaxing Chair with Foot Rest",
       "price": 399.0,
       "was_price": null,
       "discount_percent": 0,
@@ -373,6 +373,56 @@
     },
     {
       "store": "Mitre 10",
+      "id": "347128",
+      "name": "Socket and Tool Set 162 Piece",
+      "price": 259.0,
+      "was_price": null,
+      "discount_percent": 0,
+      "url": "",
+      "deal_type": "catalogue"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "386180",
+      "name": "3.6V Cordless Electric Power Cleaning Brush",
+      "price": 79.0,
+      "was_price": 119.0,
+      "discount_percent": 34,
+      "url": "",
+      "deal_type": "sale"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2081551",
+      "name": "Cordless Lawnmower LMO 5-18 Kit Yellow/Black",
+      "price": 499.0,
+      "was_price": 1000.0,
+      "discount_percent": 50,
+      "url": "",
+      "deal_type": "sale"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2049655",
+      "name": "BBQ Thermometer Wireless Meat Probe Pro XL",
+      "price": 599.2,
+      "was_price": 749.0,
+      "discount_percent": 20,
+      "url": "",
+      "deal_type": "sale"
+    },
+    {
+      "store": "Mitre 10",
+      "id": "2086953",
+      "name": "Walk-In Greenhouse H: 2.1 m, W: 1.3 m, L: 1.9 m",
+      "price": 499.0,
+      "was_price": 699.0,
+      "discount_percent": 29,
+      "url": "",
+      "deal_type": "sale"
+    },
+    {
+      "store": "Mitre 10",
       "id": "389052",
       "name": "2 Piece Barbecue Tool Set (Tongs & Spatula)",
       "price": 53.96,
@@ -513,51 +563,51 @@
     },
     {
       "store": "Mitre 10",
-      "id": "363973",
-      "name": "V20 18V V20 Oscillating Multitool Skin",
-      "price": 156.0,
-      "was_price": 195.0,
-      "discount_percent": 20,
+      "id": "2043949",
+      "name": "RE Paint Beach White 10L",
+      "price": 69.0,
+      "was_price": null,
+      "discount_percent": 0,
       "url": "",
-      "deal_type": "sale"
+      "deal_type": "catalogue"
     },
     {
       "store": "Mitre 10",
-      "id": "363972",
-      "name": "V20 18V 4.0Ah Lihtium Ion Battery",
-      "price": 88.8,
-      "was_price": 111.0,
-      "discount_percent": 20,
+      "id": "2043950",
+      "name": "RE Paint Bush Walk Green 10L",
+      "price": 69.0,
+      "was_price": null,
+      "discount_percent": 0,
       "url": "",
-      "deal_type": "sale"
+      "deal_type": "catalogue"
     },
     {
       "store": "Mitre 10",
-      "id": "363969",
-      "name": "V20 18V Cordless Hammer Drill Kit with 4.0Ah Battery",
-      "price": 119.2,
-      "was_price": 149.0,
-      "discount_percent": 20,
+      "id": "2043952",
+      "name": "RE Paint Graphite 10L",
+      "price": 69.0,
+      "was_price": null,
+      "discount_percent": 0,
       "url": "",
-      "deal_type": "sale"
+      "deal_type": "catalogue"
     },
     {
       "store": "Mitre 10",
-      "id": "363967",
-      "name": "V20 18V 6.0Ah Lithium Ion Battery",
-      "price": 159.2,
-      "was_price": 199.0,
-      "discount_percent": 20,
+      "id": "2043951",
+      "name": "RE Paint Greystone 10L",
+      "price": 69.0,
+      "was_price": null,
+      "discount_percent": 0,
       "url": "",
-      "deal_type": "sale"
+      "deal_type": "catalogue"
     },
     {
       "store": "Mitre 10",
-      "id": "363962",
-      "name": "V20 Cordless Hedge Trimmer Kit 550mm",
-      "price": 231.2,
-      "was_price": 289.0,
-      "discount_percent": 20,
+      "id": "2042250",
+      "name": "Fence & Timber Stain 10 litre Black",
+      "price": 65.0,
+      "was_price": 99.0,
+      "discount_percent": 34,
       "url": "",
       "deal_type": "sale"
     },
@@ -710,56 +760,6 @@
       "discount_percent": 24,
       "url": "",
       "deal_type": "sale"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "391922",
-      "name": "Forestwood Deck and Furniture Oil 5L Natural",
-      "price": 75.0,
-      "was_price": 109.0,
-      "discount_percent": 31,
-      "url": "",
-      "deal_type": "sale"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "391919",
-      "name": "Forestwood Deck and Furniture Oil 5L Natural Pine",
-      "price": 75.0,
-      "was_price": 109.0,
-      "discount_percent": 31,
-      "url": "",
-      "deal_type": "sale"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "391916",
-      "name": "Forestwood Deck and Furniture Oil 5L Natural Teak",
-      "price": 75.0,
-      "was_price": 109.0,
-      "discount_percent": 31,
-      "url": "",
-      "deal_type": "sale"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "391912",
-      "name": "Forestwood Deck and Furniture Oil 5L Natural Kwila",
-      "price": 75.0,
-      "was_price": 109.0,
-      "discount_percent": 31,
-      "url": "",
-      "deal_type": "sale"
-    },
-    {
-      "store": "Mitre 10",
-      "id": "2017382",
-      "name": "Prime & Paint Aerosol Spray Paint 400ml Black",
-      "price": 11.0,
-      "was_price": 17.98,
-      "discount_percent": 39,
-      "url": "",
-      "deal_type": "sale"
     }
   ],
   "stores": {
@@ -781,7 +781,7 @@
     "Farmers": {
       "products_found": 0,
       "ok": false,
-      "message": "Command '['farmers', 'search', 'home', '--prices', '--limit', '15', '--json']' timed out after 90 seconds; Command '['farmers', 'search', 'clothing', '--prices', '--limit', '15', '--json']' timed out after 90 seconds"
+      "message": "No matching products returned"
     }
   }
 }
